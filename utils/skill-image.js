@@ -82,6 +82,11 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
+import springboot from '../app/assets/svg/skills/springboot.svg'
+import sqlite from '../app/assets/svg/skills/sqlite.svg'
+import jquery from '../app/assets/svg/skills/jquery.svg'
+import flask from '../app/assets/svg/skills/palletsprojects_flask-ar21~v2.svg'
+import nodejs from '../app/assets/svg/skills/nodejs-ar21.svg'
 
 
 
@@ -96,6 +101,16 @@ export const skillsImage = (skill) => {
       return photoshop;
     case 'docker':
       return docker;
+    case 'springboot':
+      return springboot;
+    case 'sqlite':
+      return sqlite;
+    case 'jquery':
+      return jquery;
+    case 'flask':
+      return flask;
+    case 'nodejs':
+      return nodejs;
     case 'illustrator':
       return illustrator;
     case 'adobe xd':
