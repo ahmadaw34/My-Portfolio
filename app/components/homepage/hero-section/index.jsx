@@ -34,9 +34,19 @@ function HeroSection() {
           <div className="my-12 flex items-center gap-5">
             <a
               href={`mailto:${personalData.email}`}
-              className="transition-all text-pink-500 hover:scale-125 duration-300"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="transition-all text-pink-500 hover:scale-125 duration-300 flex items-center space-x-2"
             >
               <SiGmail size={30} />
+              <span>{personalData.email}</span>
+            </a>
+            <a
+              target='_blank'
+              className="transition-all text-pink-500 hover:scale-125 duration-300 flex items-center space-x-2"
+            >
+              <BsTelephone size={30} />
+              <span>{personalData.phone}</span>
             </a>
             <Link
               href={personalData.github}
@@ -52,12 +62,6 @@ function HeroSection() {
             >
               <BsLinkedin size={30} />
             </Link>
-            <a
-              target='_blank'
-              className="transition-all text-pink-500 hover:scale-125 duration-300"
-            >
-              {personalData.phone}
-            </a>
             {/* <Link
               href={personalData.facebook}
               target='_blank'

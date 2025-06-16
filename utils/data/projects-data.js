@@ -4,9 +4,10 @@ export const projectsData = [
         name: 'Market Management System',
         description: "Market Management System is a Java-based application designed to efficiently manage a market website, including user, store, product management, and order processing. This project leverages the power of the Spring Framework and Spring Data JPA for a robust data access layer and Hibernate for ORM and all operations within this project are designed to be thread-safe, comprehensive test suites, including unit, acceptance, and integration tests using Spring Boot.",
         tools: ['Java', 'Spring Boot', 'Spring Data JPA', 'JUnit', 'Maven','vaadin'],
-        role: 'Backend Developer',
+        role: 'Full Stack Developer',
         code: '',
         demo: '',
+        url: 'https://github.com/ahmadaw34/Market_14B',
     },
     {
         id: 2,
@@ -16,6 +17,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: '',
         demo: '',
+        url: 'https://github.com/noranh121/MAPF_RoboSim',
     },
     {
         id: 3,
@@ -25,6 +27,7 @@ export const projectsData = [
         code: '',
         role: 'Full Stack Developer',
         demo: '',
+        url: 'https://github.com/ahmadaw34/INSAIT_Home_Assignment',
     },
     {
         id: 4,
@@ -34,6 +37,7 @@ export const projectsData = [
         code: '',
         demo: '',
         role: 'Full Stack Developer',
+        url: 'https://github.com/ahmadaw34/Kanban',
     }
 ];
 
