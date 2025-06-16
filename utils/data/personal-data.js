@@ -7,11 +7,6 @@ export const personalData = {
   phone: '0549545787',
   address: 'Israel',
   github: 'https://github.com/ahmadaw34',
-  // facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/ahmad-awawdy-82245a235/',
-  // twitter: 'https://twitter.com/said7388',
-  // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  // leetcode: "https://leetcode.com/said3812/",
-  // devUsername: "said7388",
   resume: "/ahmadCV.pdf",
 }
