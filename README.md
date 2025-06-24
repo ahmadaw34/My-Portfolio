@@ -14,7 +14,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://ahmad-awawdy-portfolio.netlify.app/).
 
 ---
 
