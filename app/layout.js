@@ -10,7 +10,7 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Ahmad Awawdy - Software Developer",
+  title: "Portfolio of Ahmad Awawdy - Software Engineer",
   description:
     "My name is AHMAD AWAWDY. Aspiring Software Engineer seeking a new position to build impactful solutions. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving.",
 };
