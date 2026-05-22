@@ -1,12 +1,18 @@
 export const experiences = [
-  {
+   {
     id: 1,
-    title: 'courier',
-    company: "Wolt",
-    duration: "2023 - now",
+    title: 'Truck driver',
+    company: "MEAT2EAT",
+    duration: "2025 - now",
   },
   {
     id: 2,
+    title: 'courier',
+    company: "Wolt",
+    duration: "2023 - 2025",
+  },
+  {
+    id: 3,
     title: "Private tutor",
     company: "Ben-Gurion University",
     duration: "2021 - 2023"
