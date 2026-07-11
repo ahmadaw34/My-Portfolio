@@ -10,6 +10,7 @@ export const skillsData = [
   'Firebase',
   'Java',
   'SpringBoot',
+  'linux',
   'Python',
   'Flask',
   'C++',
